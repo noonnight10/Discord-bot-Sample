@@ -1,2 +1,2 @@
 # Discord-bot-Sample
-Discord bot Sample with python 3
+Discord message bot Sample with python 3
